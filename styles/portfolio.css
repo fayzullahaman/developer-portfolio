@@ -178,7 +178,7 @@ footer {
 }
 .footer-column {
     width: 50%;
-    text-align: left;
+    justify-content: left !important;
 }
 .social-links a {
     margin-right: 24px;
