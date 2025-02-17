@@ -178,10 +178,17 @@ footer {
 }
 .footer-column {
     width: 50%;
-    justify-content: left !important;
 }
-.social-links a {
-    margin-right: 24px;
+.footer-section-title{
+    color: #181818;
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+}
+.footer-section-description {
+    color: #757575;
+    text-align: left;
+    font-size: 18px;
 }
 .contact input[type="text"], .contact input[type="email"], textarea {
     display: block;
